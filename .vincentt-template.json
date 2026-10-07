@@ -32,6 +32,8 @@
     "src/Scene.tsx",
     "src/FaceBoundingBox.tsx",
     "src/FooterHud.tsx",
-    "src/HandBoundingBox.tsx"
+    "src/HandBoundingBox.tsx",
+    "src/fruitGame.ts",
+    "src/fruitGame.test.ts"
   ]
 }
